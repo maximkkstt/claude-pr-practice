@@ -4,7 +4,7 @@ A tiny sandbox repo created to try out the full GitHub pull request workflow wit
 
 ## What is this?
 
-This repo doesnt do anything fancy — its just a small, safe place to practice:
+This repo doesn't do anything fancy — it's just a small, safe place to practice:
 
 - Making a change on a branch
 - Opening a pull request
